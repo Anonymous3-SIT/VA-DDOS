@@ -13,7 +13,7 @@ def usage():
     print "#\033[1;91m Version:1.0                    80 JUTA                    #"
     print "#                                                           #"
     print "#                                                           #"
-    print "#               \033[1;91m<--[ Shutdown Indo Team]-->               \033[1;32m#"
+    print "#               \033[1;91m<--[ SHUTDOWN INDO TEAM ]-->                \033[1;32m#"
     print "#############################################################"
     print "                        @@@@@@@@@@"
     print "                       @@@@@@@@@@@@"
